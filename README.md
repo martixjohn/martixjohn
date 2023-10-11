@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning machine learning and computer graphics.
 - 💬 Welcome free talks about computer science
-- 😄 Hobby: Programming, listening to music
+- 😄 Hobby: Programming❤️Listening to music🎵Video Games🎮
 - 🐼 Tech Stacks
   - Web: Typescript React Vue React-Native Electron
   - Backend: Spring Cloud, .NET
