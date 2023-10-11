@@ -5,4 +5,3 @@
 - 🌱 I’m currently learning machine learning and computer graphics.
 - 💬 Welcome free talks about computer science
 - 😄 Hobby: Programming and listening to music
-- ⚡ Fun fact: 
