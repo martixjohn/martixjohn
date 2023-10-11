@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning machine learning and computer graphics.
 - 💬 Welcome free talks about computer science
-- 😄 Hobby: Programming❤️Listening to music🎵Video Games🎮
+- 😄 Hobby: ⌨️Programming  💕Listening to music  🎮Video Games
 - 🐼 Tech Stacks
-  - Web: Typescript React Vue React-Native Electron
+  - Web: Typescript React Vue React-Native
   - Backend: Spring Cloud, .NET
-  - Client: Qt, Android Native
+  - Client: Qt, Electron, Android
   - Learning: Machine Learning, OpenCV
