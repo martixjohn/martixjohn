@@ -6,7 +6,7 @@
 - 💬 Welcome free talks about computer science
 - 😄 Hobby: ⌨️Programming  💕Listening to music  🎮Video Games
 - 🐼 Tech Stacks
-  - Web: Typescript React Vue React-Native
+  - Web: Typescript React Vue
   - Backend: Spring Cloud, .NET
-  - Client: Qt, Electron, Android
+  - Client: Qt, Electron, React-Native, Android
   - Learning: Machine Learning, OpenCV
