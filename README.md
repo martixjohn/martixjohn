@@ -9,4 +9,4 @@
   - Web: Typescript, React, Vue
   - Backend: Spring Cloud, .NET
   - Client: Qt, Electron, React-Native, Android
-  - Learning: Machine Learning, OpenCV
+  - Current Learning: Machine Learning, OpenCV
