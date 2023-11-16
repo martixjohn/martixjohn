@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning machine learning and computer graphics.
 - 💬 Welcome free talks about computer science
-- 😄 Hobbies: ⌨️Programming  💕Listening to music  🎮Video Games
-- 🐼 Tech Stacks
+- 😄 Fond of: ⌨️Programming  💕Listening to music  🎮Video Games
+- 🐼 Tech Stacks:
   - Web: Typescript, React, Vue
   - Backend: Spring Cloud, .NET
   - Client: Qt, Electron, React-Native, Android
