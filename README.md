@@ -7,6 +7,6 @@
 - 😄 Fond of: ⌨️Programming  💕Listening to music  🎮Video Games
 - 🐼 Tech Stacks:
   - Web: Typescript, React, Vue
-  - Backend: Spring Cloud, .NET
+  - Backend: Spring Cloud, ASP.NET
   - Client: Qt, Electron, React-Native, Android
   - Currently Learning: Machine Learning, OpenCV
