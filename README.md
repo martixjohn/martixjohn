@@ -3,7 +3,7 @@
 #### ✨ There's a guy interested in anything about computer ✨
 
 - 🌱 I’m currently learning machine learning and computer graphics.
-- 💬 Welcome free talks about computer science
+- 💬 Feel free to chat or talk about computer science
 - 😄 Fond of: ⌨️Programming  💕Listening to music  🎮Video Games
 - 🐼 Tech Stacks:
   - Web: Typescript, React, Vue
