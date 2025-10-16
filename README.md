@@ -6,6 +6,6 @@
 
 - 🐼 Tech Stacks:
   
-  - Programming Languages: Typescript, C++, C#
+  - Primary Programming Languages: Typescript, Java
   
   - Web(React, Vue, ASP.NET, Spring), Client-Side(WPF, Qt, Electron)
